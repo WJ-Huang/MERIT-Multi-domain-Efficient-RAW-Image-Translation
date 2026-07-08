@@ -13,6 +13,10 @@ conda env create -f environment.yml
 conda activate merit
 ```
 
+### Dataset
+
+Download our dataset MDRAW  [here](https://drive.google.com/file/d/1ToavWhv-Di8Muosmki59xByP0_-H5njT/view?usp=sharing)
+
 ### Preprocessing
 
 Run the following scripts in order from the `preprocess/` directory:
